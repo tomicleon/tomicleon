@@ -1,7 +1,5 @@
-# 👋 Hi, I’m @Intermo101
+# 👋 Hi, I’m Leon
 
+Software engineer
 Born and living in Croatia
-
-Languages: TS/JS, C#, C/C++, Java, Python, Dart
-
-Currently using: Dart (with Flutter), JS (with Node and Express)
+Languages: English, Croatian, Russian
