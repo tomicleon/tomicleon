@@ -2,4 +2,4 @@
 
 Software engineer  
 Born and living in Croatia  
-Languages: English, Croatian, Russian
+Languages: English, Croatian, Russian, Japanese
